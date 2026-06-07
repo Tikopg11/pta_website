@@ -1,13 +1,11 @@
 ---
 layout: home
-title: Simple pages - main page
+title: main_page
 ---
 
-This site is a template that you can copy to get started publishing your own
-sites online using GitHub Pages.
-[See source code here.](https://github.com/pdg137/simple-pages)
+Welcome to DAO pta page.
 
-See the posts below for help getting your own site running.
+[Donation for general events](pages/donation)
 
 You can add static content here or compose blog posts in the `_posts/` folder.
 
