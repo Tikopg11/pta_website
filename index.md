@@ -3,7 +3,7 @@ layout: home
 title: Davidson Academy Online PTA
 ---
 
-#Get Involved:
+# Get Involved:
 ### Donate
 [Donation for general events](pages/donation)
 ### Book Drive
@@ -13,17 +13,12 @@ title: Davidson Academy Online PTA
 ### List
 [list](pages/list)
 ## Events
-### Summer Event
-[summer](pages/summer)
-#### Dance
-[dance](pages/dance)
-### Winter Event
-[winter](pages/winter)
-###  
-[graduation](pages/graduation)
+-[Summer Retreat](pages/summer)
+--[dance](pages/dance)
+-[Winter Retreat](pages/winter)
+-[Graduation](pages/graduation)
 ### Example Page
-[example](pages/example)
-## Our Mission
-[mission](pages/mission)
+[Example](pages/example)
 ## Contact Us
+[mission](pages/mission)
 [contact](pages/contact) 
