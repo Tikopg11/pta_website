@@ -1,18 +1,31 @@
 ---
 layout: home
-title: main_page
+title: Davidson Academy Online PTA
 ---
 
-Welcome to DAO pta page.
+# Davidson Academy Online PTA
 
-[Donation for general events](pages/donation)  
-[book drive](pages/book_drive)  
-[list](pages/list)  
-[summer](pages/summer)  
-[contact](pages/contact)  
-[example](pages/example)  
-[membership](pages/membership)  
-[winter](pages/winter)  
-[dance](pages/dance)  
-[graduation](pages/graduation)  
+##Get Involved:
+### Donate
+[Donation for general events](pages/donation)
+### Book Drive
+[book drive](pages/book_drive)
+### Membership
+[membership](pages/membership)
+### List
+[list](pages/list)
+## Events
+### Summer Event
+[summer](pages/summer)
+#### Dance
+[dance](pages/dance)
+### Winter Event
+[winter](pages/winter)
+###  
+[graduation](pages/graduation)
+### Example Page
+[example](pages/example)
+## Our Mission
 [mission](pages/mission)
+## Contact Us
+[contact](pages/contact) 
