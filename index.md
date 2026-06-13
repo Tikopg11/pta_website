@@ -3,9 +3,7 @@ layout: home
 title: Davidson Academy Online PTA
 ---
 
-# Davidson Academy Online PTA
-
-##Get Involved:
+#Get Involved:
 ### Donate
 [Donation for general events](pages/donation)
 ### Book Drive
