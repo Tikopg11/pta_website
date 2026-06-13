@@ -1,25 +1,22 @@
----
----
-
 body {
-  background: #0f172a;
-  color: #f8fafc;
-  font-family: Arial, sans-serif;
-  line-height: 1.7;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 40px 20px;
+
+  font-family: Inter, system-ui, sans-serif;
+  line-height: 1.8;
 }
 
-h1, h2, h3 {
-  color: white;
+h1 {
+  font-size: 3rem;
+  margin-bottom: 0.5rem;
 }
 
-a {
-  color: #60a5fa;
+h2 {
+  margin-top: 4rem;
+  margin-bottom: 1rem;
 }
 
-a:hover {
-  color: #93c5fd;
-}.example-page-special1 {
-  font-family: cursive;
-  border: 2px solid gray;
-  padding: 0 3px 0 3px;
+p {
+  margin-bottom: 1.2rem;
 }
