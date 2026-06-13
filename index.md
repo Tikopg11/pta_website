@@ -2,7 +2,12 @@
 layout: home
 title: Davidson Academy Online PTA
 ---
-<div>Hello</div>
+
+<div class="hero">
+  <h1>Davidson Academy Online PTA</h1>
+  <p>Supporting students, families, and school events.</p>
+</div>
+
 # Get Involved:
 ## Donate
 [General Donations](pages/donation)
