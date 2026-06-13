@@ -1,8 +1,24 @@
 ---
 ---
-// Put your custom CSS rules here
 
-.example-page-special1 {
+body {
+  background: #0f172a;
+  color: #f8fafc;
+  font-family: Arial, sans-serif;
+  line-height: 1.7;
+}
+
+h1, h2, h3 {
+  color: white;
+}
+
+a {
+  color: #60a5fa;
+}
+
+a:hover {
+  color: #93c5fd;
+}.example-page-special1 {
   font-family: cursive;
   border: 2px solid gray;
   padding: 0 3px 0 3px;
