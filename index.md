@@ -3,28 +3,36 @@ layout: home
 title: Davidson Academy Online PTA
 ---
 
+<div class="feature-grid">
+
 <div class = "feature-card">
 <h2> Get Involved </h2>
 <p>Support DAO events.</p>
 <a href="pages/donation"> Donate </a>
 </div>
 
-## Participate
-### Book drive
-[book drive](pages/book_drive)
-### Membership
-[membership](pages/membership)
-### List
-[list](pages/list)
+<div class="feature-card">
+<h2> Volunteer</h2>
+<p>Help participate and volunteer at events.</p>
+<a href="pages/list"> Volunteer </a>
+</div>
+<div class="feature-card">
+<h2>Membership</h2>
+<p>Become part of the DAO PTA community.</p>
+<a href="pages/membership">Join →</a>
+</div>
 
-## Events
-- [Summer Retreat](pages/summer)
-  - [dance](pages/dance)
-- [Winter Retreat](pages/winter)
+</div>
+
+## Current Programs
+
+- [Book Drive](pages/book_drive)
+- [Summer Events](pages/summer)
+- [Winter Events](pages/winter)
+- [School Dance](pages/dance)
 - [Graduation](pages/graduation)
 
-### Example Page
-[Example](pages/example)
-## Contact Us
-[mission](pages/mission)
-[contact](pages/contact) 
+## Learn More
+
+- [Mission](pages/mission)
+- [Contact](pages/contact)
