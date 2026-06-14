@@ -2,11 +2,13 @@
 layout: home
 title: Davidson Academy Online PTA
 ---
-<div class="feature-grid">
 
-# Get Involved:
-## Donate
-[General Donations](pages/donation)
+<div class = "feature-card">
+<h2> Get Involved </h2>
+<p>Support DAO events.</p>
+<a href="pages/donation"> Donate </a>
+</div>
+
 ## Participate
 ### Book drive
 [book drive](pages/book_drive)
