@@ -8,18 +8,18 @@ title: Davidson Academy Online PTA
 <div class = "feature-card">
 <h2> Get Involved </h2>
 <p>Support DAO events.</p>
-<a href="pages/donation"> Donate </a>
+<a class="button" href="pages/donation"> Donate </a>
 </div>
 
 <div class="feature-card">
 <h2> Volunteer</h2>
 <p>Help participate and volunteer at events.</p>
-<a href="pages/list"> Volunteer </a>
+<a class="button" href="pages/list"> Volunteer </a>
 </div>
 <div class="feature-card">
 <h2>Membership</h2>
 <p>Become part of the DAO PTA community.</p>
-<a href="pages/membership">Join →</a>
+<a class="button" href="pages/membership">Join</a>
 </div>
 
 </div>
