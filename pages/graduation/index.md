@@ -1,16 +1,28 @@
 ---
 layout: page
-title: Example page
+title: Graduation
 ---
 
 The DAO graduation home page.
 
 **graduation pngs**
 
-**maybe just link to donation page here??**
+<div class="feature-card">
+  <h2><a href="https://paypal.com" class="feature-card">Paypal</a></h2>
+  <p>Support DAO events.</p>
+</div>
 
-**graduation volunteer link**
+<div class="feature-card">
+  <h2><a href="https://zeffy.com" class="feature-card">Zeffy</a></h2>
+  <p>Support DAO events.</p>
+</div>
 
-**communications (discourse?)**
+**volunteering roles** 
+<div class="feature-card">
+  <h2><a href="signupgenius.com" class="feature-card">signupgenius</a></h2>
+  <p>Sign up to volunteer for DAO events.</p>
+</div>
 
-**liability forms link**
+**figure out communications**
+
+**liability forms**
