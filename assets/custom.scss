@@ -52,3 +52,20 @@ body
   color: #7a0019;
   margin-top: 0;
 }
+
+.site-title {
+  display: inline-flex;
+  align-items: center;
+}
+
+.site-title::before {
+  content: "";
+  display: inline-block;
+  width: 35px;
+  height: 35px;
+  margin-right: 8px;
+  background-image: url("/assets/dao-logo.jpeg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
