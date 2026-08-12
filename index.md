@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Davidson Academy Online PTA
+title: DAO Parent-Organized Events Page
 ---
 
 <div class="feature-grid">
@@ -22,7 +22,7 @@ title: Davidson Academy Online PTA
 <div class="feature-grid">
 
 <a class="feature-card" href="pages/dance">
-  <h2>Summer Event</h2>
+  <h2>Summer Event: Dance</h2>
   <p>Unofficial DAO summer events.</p>
 </a>
 

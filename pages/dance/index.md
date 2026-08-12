@@ -17,5 +17,6 @@ Anything that has to do with the DAO summer dance.
 
 **pictures from previous dance coming soon**
 
+**discourse for communication coming soon**
 
 **liability forms coming soon**
