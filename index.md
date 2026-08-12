@@ -23,12 +23,12 @@ title: DAO Parent-Organized Events Page
 
 <a class="feature-card" href="pages/dance">
   <h2>Summer Event: Dance</h2>
-  <p>Unofficial DAO summer events.</p>
+  <p>Parent-led DAO summer events.</p>
 </a>
 
 <a class="feature-card" href="pages/winter">
   <h2>Winter Events</h2>
-  <p>Unofficial DAO winter events.</p>
+  <p>Parent-led DAO winter events.</p>
 </a>
 
 
