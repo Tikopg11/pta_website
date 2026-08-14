@@ -2,8 +2,13 @@
 layout: page
 title: Mission Statement
 ---
+<div class="mission-statement">
+Our mission is to enrich the educational and social development of students enrolled in Davidson Academy Online by providing expanded academic support, fostering community engagement, and creating opportunities for meaningful in‑person and virtual experiences. We aim to build an inclusive, supportive environment that enhances student learning, well‑being, and connection.
+</div>
 
-**Mission Statement**: Provide a better platform for supporting DAO parent-led events.
+<hr>
+
+# Description of Pages
 
 **Donation and Membership**: Page with links for donating money for DAO events.
 
